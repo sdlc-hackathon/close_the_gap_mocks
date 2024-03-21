@@ -1,0 +1,12 @@
+{
+    "request": {
+      "urlPath": "/close-the-gap/auth/v1/registration",
+      "method": "POST"
+    },
+    "response": {
+      "status": 200,
+      "jsonBody": {
+        "success": true
+      }
+    }
+  }

@@ -1,0 +1,31 @@
+{
+    "request": {
+      "urlPath": "/close-the-gap/perks/v1/add-ons",
+      "method": "POST"
+    },
+    "response": {
+      "status": 200,
+      "jsonBody": {
+        "add-ons": {
+          "entertainment": [
+            "Disney+ Subscription",
+            "Netflix Subscription",
+            "6x Free Cinema Tickets"
+          ],
+          "insurance": [
+            "Pet Insurance",
+            "Travel Insurance"
+          ],
+          "travel": [
+            "Free Bus Pass",
+            "10x Local Train Journeys"
+          ],
+          "money": [
+            "1% Cashback on Purchases",
+            "Free currency exchange",
+            "Cashback on Direct Debits"
+          ]
+        }
+      }
+    }
+  }
